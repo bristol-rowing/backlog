@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG] - "
+title: bug(AREA) - Title
 labels: bug, pending review
-assignees: ''
+assignees: ct5845
 
 ---
 
