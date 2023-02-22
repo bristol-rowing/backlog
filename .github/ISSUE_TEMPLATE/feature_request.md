@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: feature(AREA) - TITLE
-labels: enhancement, pending review
-assignees: ''
+labels: enhancement
+assignees: ct5845
 
 ---
 

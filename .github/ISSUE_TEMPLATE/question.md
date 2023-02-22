@@ -2,8 +2,8 @@
 name: Question
 about: Ask a question
 title: "[QUESTION] - "
-labels: pending review, question
-assignees: ''
+labels: question
+assignees: ct5845
 
 ---
 

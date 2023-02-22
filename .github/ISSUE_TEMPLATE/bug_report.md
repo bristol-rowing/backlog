@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: bug(AREA) - Title
-labels: bug, pending review
+labels: bug
 assignees: ct5845
 
 ---

@@ -2,8 +2,8 @@
 name: Documentation
 about: Suggest an improvement to documentation
 title: "[DOCUMENTATION] -"
-labels: documentation, pending review
-assignees: ''
+labels: documentation
+assignees: ct5845
 
 ---
 
